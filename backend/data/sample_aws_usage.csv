@@ -1,0 +1,11 @@
+service,resource_id,instance_type,hours_used,cpu_utilization,storage_gb,requests,invocations,duration,bandwidth,cost,usage_date
+EC2,i-prod-analytics,t3.large,720,14,0,0,0,0,0,420.50,2026-04-01
+EC2,i-web-01,m5.xlarge,720,23,0,0,0,0,0,610.10,2026-04-02
+S3,s3-logs-bucket,,0,0,1800,4500,0,0,0,290.75,2026-04-03
+S3,s3-assets,,0,0,350,460000,0,0,0,75.60,2026-04-04
+Lambda,lambda-image-processor,,0,0,0,0,2900000,2100,0,165.30,2026-04-05
+Lambda,lambda-api-handler,,0,0,0,0,1600000,600,0,88.20,2026-04-06
+DataTransfer,egress-us-east-1,,0,0,0,0,0,0,1250,510.40,2026-04-07
+DataTransfer,egress-apac,,0,0,0,0,0,0,930,402.25,2026-04-08
+EC2,i-dev-batch,c5.2xlarge,320,9,0,0,0,0,0,510.80,2026-04-09
+S3,s3-archive-raw,,0,0,2200,1800,0,0,0,330.45,2026-04-10
