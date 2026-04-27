@@ -120,7 +120,7 @@ curl "http://localhost:8000/simulate"
 - **Monthly projected savings:** `~$756.75`
 - **30-day forecast comparison:** optimized trajectory remains lower than baseline across the horizon.
 
-## Why this is Resume-Ready
+## Why this is Ready
 - Demonstrates production-minded architecture, modular services, and clean contracts.
 - Shows LLM integration for structured reasoning, not just chat output.
 - Quantifies business impact through decision simulation and forecasting.
